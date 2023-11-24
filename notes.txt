@@ -1,0 +1,2 @@
+anda @ pada awal path ini mungkin merupakan alias yang telah dikonfigurasi untuk menunjuk ke direktori tertentu,
+seperti direktori src atau direktori tempat kode sumber utama proyek disimpan

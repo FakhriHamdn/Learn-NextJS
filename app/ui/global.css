@@ -1,6 +1,6 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@tailwind base; /* untuk menyertakan aturan CSS dasar (padding, margin etc) */
+@tailwind components; /* untuk mengimport component component interface*/
+@tailwind utilities; /* Agar dapat menambahkan syntax atau class class utility tailwind kedalam element html */
 
 input[type='number'] {
   -moz-appearance: textfield;
