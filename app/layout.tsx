@@ -1,5 +1,6 @@
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
+import { Analytics } from '@vercel/analytics/react';
 
 // layout sebagai tata letak utama untuk semua file atau aplikasi
 //  jadi pas server mengirimkan data nanti si root layout ini bakal ngubah ke html biasa yang siap ditampilakn di client side
